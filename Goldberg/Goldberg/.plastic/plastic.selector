@@ -1,0 +1,3 @@
+repository "My project/My project@14569605092510@cloud"
+  path "/"
+    smartbranch "/main/JunHo_Creative mode"  
